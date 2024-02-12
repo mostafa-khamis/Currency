@@ -12,7 +12,7 @@ http://localhost:8100/conversion/USD/to/EGP/quantity/100
 http://localhost:8100/conversion/USD/to/SA/quantity/100
 http://localhost:8100/conversion/USD/to/UAE/quantity/100
 
-Through API Gateway
+Through API Gateway 
 http://localhost:8765/CURRENCY-EXCHANGE/exchange/USD/to/EGP
 http://localhost:8765/CURRENCY-EXCHANGE/exchange/USD/to/SA
 http://localhost:8765/CURRENCY-EXCHANGE/exchange/USD/to/UAE
