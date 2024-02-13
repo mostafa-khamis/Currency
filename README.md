@@ -20,3 +20,6 @@ http://localhost:8765/CURRENCY-EXCHANGE/exchange/USD/to/UAE
 http://localhost:8765/CURRENCY-CONVERSION/conversion/USD/to/EGP/quantity/100
 http://localhost:8765/CURRENCY-CONVERSION/conversion/USD/to/SA/quantity/100
 http://localhost:8765/CURRENCY-CONVERSION/conversion/USD/to/UAE/quantity/100
+
+Eureka:
+localhost:8761
