@@ -31,9 +31,6 @@ public class CurrencyController {
         currencyExchange.setEnvironment(port + " " + version + " "+ host);
         return currencyExchange;
     }
-    @GetMapping(name = "/say" ,value = "/say")
-    public String sayHello(){
-        return "Hello Mother father";
-    }
+   
 
 }
