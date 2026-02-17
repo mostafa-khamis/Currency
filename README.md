@@ -1,7 +1,22 @@
+# Currency Exchange Application
+
+**Idea:** A microservices-based application for currency exchange that supports service discovery and distributed tracing.
+
+**Key Features:**
+- Created two microservices with inter-service communication.
+- Enabled service discovery and registration using Eureka.
+- Implemented API Gateway for routing and load balancing.
+- Integrated Zipkin for distributed tracing to monitor microservices interactions.
+- Containerized the entire application using Docker.
+
+**Tech Stack:** Java, Spring Boot, Spring Cloud, Eureka, API Gateway, Zipkin, Docker
+
+
+
 Run project on docker
-  1- Add all projects in on directory 
+  1- Add all projects in directory 
   2- Open CMD in this directory 
-  3- Run this commant "docker compose up"
+  3- Run this command "docker compose up"
 
 URLs to test:
 http://localhost:8000/exchange/USD/to/EGP
