@@ -13,10 +13,10 @@
 
 
 
-Run project on docker
-  1- Add all projects in directory 
-  2- Open CMD in this directory 
-  3- Run this command "docker compose up"
+**Run project on docker**
+  - Add all projects in directory 
+  - Open CMD in this directory 
+  - Run this command "docker compose up"
 
 URLs to test:
 http://localhost:8000/exchange/USD/to/EGP
